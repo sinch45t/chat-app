@@ -1,4 +1,4 @@
-<h2>[📄 View Project Report (PDF)](https://github.com/sinch45t/chat-app/blob/main/MINIPROJECT-WEBAPP.pdf"
+<h2>[📄 View Project Report (PDF)](https://github.com/sinch45t/chat-app/blob/main/MINIPROJECT-WEBAPP.pdf")
 <h3>To Run the code</h3>
 <p>
 step 1:clone the repo
