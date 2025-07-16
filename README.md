@@ -1,4 +1,4 @@
-<h2>inital Report</h2>"https://github.com/Muhammed-Adnaan/chat-app/blob/main/MINI%20PROJECT-WEBAPP.pdf"
+<h2>inital Report</h2>"https://github.com/Sinchana/chat-app/blob/main/MINI%20PROJECT-WEBAPP.pdf"
 
 <h3>To Run the code</h3>
 <p>
