@@ -19,5 +19,5 @@ Then the admin login page opens then you can login with your own admin credentia
 </p>
 
 <p align = "center">
-  <img src="C:\Users\sinch\Downloads\g\Data flow diagram.png" title="dfd">
+  <img src="Data flow diagram.png" title="dfd">
 </p>
